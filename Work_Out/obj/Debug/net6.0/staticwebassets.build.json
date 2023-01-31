@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "dgiadCMHsEX6IzhykoUtwmLqZN1/FBv3BOlpIyw+vyI=",
+  "Source": "Work_Out",
+  "BasePath": "_content/Work_Out",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Work_Out/wwwroot",
+      "Source": "Work_Out",
+      "ContentRoot": "/Users/abood/Desktop/Work_Out/Work_Out/wwwroot/",
+      "BasePath": "_content/Work_Out",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
