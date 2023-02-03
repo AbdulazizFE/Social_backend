@@ -12,8 +12,8 @@ using Work_Out.DataContext;
 namespace Work_Out.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20230203171306_new")]
-    partial class @new
+    [Migration("20230203174705_initialCreate")]
+    partial class initialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

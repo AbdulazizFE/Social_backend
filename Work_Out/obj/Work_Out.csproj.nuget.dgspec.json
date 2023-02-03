@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj": {}
+    "C:\\Users\\Abdulaziz\\source\\repos\\Social_backend\\Work_Out\\Work_Out.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj": {
+    "C:\\Users\\Abdulaziz\\source\\repos\\Social_backend\\Work_Out\\Work_Out.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj",
+        "projectUniqueName": "C:\\Users\\Abdulaziz\\source\\repos\\Social_backend\\Work_Out\\Work_Out.csproj",
         "projectName": "Work_Out",
-        "projectPath": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj",
+        "projectPath": "C:\\Users\\Abdulaziz\\source\\repos\\Social_backend\\Work_Out\\Work_Out.csproj",
         "packagesPath": "C:\\Users\\Abdulaziz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\obj\\",
+        "outputPath": "C:\\Users\\Abdulaziz\\source\\repos\\Social_backend\\Work_Out\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdulaziz\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EnJICgr5/lDV0nNi7Ba7p3+PQrkqjFTaxeY1RTaVut4rcHPRevwLOiTXqZKc5Ai5gjN1Gs3rShqp2kkErFW8gQ==",
+  "dgSpecHash": "wg/5sKLcf1oAfJGznZeTwxRxBY8MtcdCyznaz3SD4E/5llsHSTVg+4L4UyURoCJ0cUb8jF26oSd45ZNdXhrzhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj",
+  "projectFilePath": "C:\\Users\\Abdulaziz\\source\\repos\\Social_backend\\Work_Out\\Work_Out.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdulaziz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Abdulaziz\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",

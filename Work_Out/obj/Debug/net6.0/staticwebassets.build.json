@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c0SiIjaePv6J4oKg4JcsYfZTetVtjalmA3XOyN9hD0Y=",
+  "Hash": "WvVIg+qm+RjugrDV3Jpq53gLhdcRNp+ta96TKM7l3r8=",
   "Source": "Work_Out",
   "BasePath": "_content/Work_Out",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Work_Out\\wwwroot",
       "Source": "Work_Out",
-      "ContentRoot": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdulaziz\\source\\repos\\Social_backend\\Work_Out\\wwwroot\\",
       "BasePath": "_content/Work_Out",
       "Pattern": "**"
     }
