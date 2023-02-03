@@ -1,26 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abood/Desktop/Work_Out/Work_Out/Work_Out.csproj": {}
+    "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj": {}
   },
   "projects": {
-    "/Users/abood/Desktop/Work_Out/Work_Out/Work_Out.csproj": {
+    "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abood/Desktop/Work_Out/Work_Out/Work_Out.csproj",
+        "projectUniqueName": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj",
         "projectName": "Work_Out",
-        "projectPath": "/Users/abood/Desktop/Work_Out/Work_Out/Work_Out.csproj",
-        "packagesPath": "/Users/abood/.nuget/packages/",
-        "outputPath": "/Users/abood/Desktop/Work_Out/Work_Out/obj/",
+        "projectPath": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\Work_Out.csproj",
+        "packagesPath": "C:\\Users\\Abdulaziz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/abood/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Abdulaziz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.episerver.com/feed/packages.svc/": {}
         },
         "frameworks": {
           "net6.0": {
@@ -110,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
