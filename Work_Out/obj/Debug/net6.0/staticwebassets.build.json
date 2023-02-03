@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dgiadCMHsEX6IzhykoUtwmLqZN1/FBv3BOlpIyw+vyI=",
+  "Hash": "c0SiIjaePv6J4oKg4JcsYfZTetVtjalmA3XOyN9hD0Y=",
   "Source": "Work_Out",
   "BasePath": "_content/Work_Out",
   "Mode": "Default",
@@ -8,9 +8,9 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Work_Out/wwwroot",
+      "Name": "Work_Out\\wwwroot",
       "Source": "Work_Out",
-      "ContentRoot": "/Users/abood/Desktop/Work_Out/Work_Out/wwwroot/",
+      "ContentRoot": "C:\\Users\\Abdulaziz\\Source\\Repos\\Social_backend\\Work_Out\\wwwroot\\",
       "BasePath": "_content/Work_Out",
       "Pattern": "**"
     }
