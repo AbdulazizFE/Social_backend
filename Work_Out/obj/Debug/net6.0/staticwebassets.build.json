@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dgiadCMHsEX6IzhykoUtwmLqZN1/FBv3BOlpIyw+vyI=",
+  "Hash": "n1f2Xx+JhtEaRMk9IalnDuhhpFOnDwNo/aDaIP2ElPA=",
   "Source": "Work_Out",
   "BasePath": "_content/Work_Out",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Work_Out/wwwroot",
       "Source": "Work_Out",
-      "ContentRoot": "/Users/abood/Desktop/Work_Out/Work_Out/wwwroot/",
+      "ContentRoot": "/Users/abood/Desktop/Social_backend/Work_Out/wwwroot/",
       "BasePath": "_content/Work_Out",
       "Pattern": "**"
     }

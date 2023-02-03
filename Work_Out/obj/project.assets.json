@@ -3290,11 +3290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abood/Desktop/Work_Out/Work_Out/Work_Out.csproj",
+      "projectUniqueName": "/Users/abood/Desktop/Social_backend/Work_Out/Work_Out.csproj",
       "projectName": "Work_Out",
-      "projectPath": "/Users/abood/Desktop/Work_Out/Work_Out/Work_Out.csproj",
+      "projectPath": "/Users/abood/Desktop/Social_backend/Work_Out/Work_Out.csproj",
       "packagesPath": "/Users/abood/.nuget/packages/",
-      "outputPath": "/Users/abood/Desktop/Work_Out/Work_Out/obj/",
+      "outputPath": "/Users/abood/Desktop/Social_backend/Work_Out/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abood/.nuget/NuGet/NuGet.Config"
