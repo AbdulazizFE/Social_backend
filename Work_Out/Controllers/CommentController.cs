@@ -46,6 +46,7 @@ namespace Work_Out.Controllers
                     created_comment = c.PublishedComment.ToString("f"),
                     c.Author,
                     // c.Post,
+        countcomment = c.Author.Comments.Count
 
                 }).ToListAsync();
 

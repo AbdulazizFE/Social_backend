@@ -120,29 +120,28 @@ namespace Work_Out.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Author>> GetUser(int id)
         {
-            var GetUser = await _context.Authors.Where(x => x.Id == id).Include(p => p.Posts).Include(c => c.Comments).Select(c => new
+            var getUserInfo = await _context.Authors.Where(x => x.Id == id).Include(p => p.Posts).Include(c => c.Comments).Select(c => new
                   {
                       c.Id,
                       c.UserName,
-                countComment = c.Comments.Count,
                   countPost = c.Posts.Count,
+                  countComment = c.Comments.Count,
                
           
                 post =  c.Posts.Select(x => new{
-                 comment = x.Comment,
-                    x.Comment.Count,
-                    x.Content,
                     x.Id,
                     x.UserName,
+                    x.Content,
                     x.Title,
                     x.AuthorId,
-                   created=  x.Published.ToString("f")
+                   created=  x.Published.ToString("f"),
+                    comment = x.Comment,
 
                  }).ToList()
                    
                   }).ToListAsync();
            
-            return Ok(GetUser);
+            return Ok(getUserInfo);
         }
 
 
